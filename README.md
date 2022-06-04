@@ -1,2 +1,2 @@
-# docker-image
+# docker-template
 docker image template
